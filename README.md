@@ -1,12 +1,8 @@
 # Dutch Diederik Amber Console
 
-**An affectionate little tribute to [DutchDiederik](https://github.com/DutchDiederik) and his wonderful [AmberConsole](https://github.com/DutchDiederik/AmberConsole).**
+**This Omarchy theme is a tribute to [DutchDiederik](https://github.com/DutchDiederik)'s excellent [AmberConsole](https://github.com/DutchDiederik/AmberConsole) html/css framework.**
 
-Diederik gave us something worth bringing to the desktop: the warm glow and purposeful restraint of old display hardware. One emitter, a handful of intensities, and every line earning its place. Thank you, Diederik, for making those limitations so inviting.
-
-This community adaptation brings AmberConsole's default **neon plasma** palette to [Omarchy](https://omarchy.org) through its normal theme layer. It is an independent tribute, with the original design and palette credited to Diederik.
-
-![Jesse Palmer's IMAX console photograph, used as the theme wallpaper](preview.jpg)
+![Dutch Diederik Amber Console: six application screenshots around the IMAX console photograph](preview.jpg)
 
 *The wallpaper is [Jesse Palmer's photograph of an IMAX console](https://x.com/RealJessePalmer/status/2080690462269259848), included unchanged.*
 
@@ -23,8 +19,6 @@ Select it later through **Style → Theme**, or:
 ```bash
 omarchy theme set dutch-diederik-amber-console
 ```
-
-Use **Style → Background** to switch between the IMAX photograph and the plain warm-black panel.
 
 The theme appears as **Dutch Diederik Amber Console** in Omarchy's picker.
 
@@ -43,18 +37,16 @@ AmberConsole takes its cues from hardware that could vary the brightness of a si
 
 The colors come from [AmberConsole's neon tokens](https://github.com/DutchDiederik/AmberConsole/blob/e616e1c04aaf65d67e485559745421c8226ec4b3/src/tokens/colors.css). This is the neon profile; AmberConsole's separate P3 amber CRT profile has a different ramp.
 
-<details>
-<summary>Terminal palette preview</summary>
+Terminal palette preview
 
-<img src="screenshots/terminal.png" width="640" alt="Live Omarchy terminal showing the single-emitter ANSI palette and inverse selections">
-
-</details>
+![Live Omarchy terminal showing the single-emitter ANSI palette and inverse selections](screenshots/terminal.png)
 
 ## What the theme changes
 
 - `colors.toml` supplies the palette for Omarchy's generated application themes.
 - `shell.toml` colors the bar, menus, launcher, notifications and related shell surfaces.
-- `backgrounds/` contains the IMAX photograph and a plain panel alternative.
+- `icons.theme` selects orange Yaru-dark folder icons.
+- `backgrounds/` contains the IMAX photograph.
 
 Fonts, layout, widgets and desktop behavior are inherited. The package contains no hooks, scripts, plugins or global configuration changes.
 
@@ -65,6 +57,5 @@ This is a small working palette and surface adaptation. Websites, images and ind
 - **[DutchDiederik / Diederik](https://diederik.blog)** — AmberConsole's original design, hardware research and palette. Please visit [AmberConsole](https://github.com/DutchDiederik/AmberConsole); it is the heart of this theme.
 - **[Jesse Palmer](https://x.com/RealJessePalmer/status/2080690462269259848)** — the IMAX console photograph.
 - **[Bjarne Øverli](https://github.com/bjarneo/omarchy-evergreen-theme)** and the Omarchy theme community — the straightforward repository and installation conventions.
-- **[Jason Ziegler](https://github.com/zigmoo)** — this Omarchy adaptation.
 
-The upstream **BSD-3-Clause** notice is retained in [LICENSE](LICENSE) for the theme. The IMAX photograph and its identical `preview.jpg` copy retain their original rights and are not covered by that license.
+The upstream **BSD-3-Clause** notice is retained in [LICENSE](LICENSE) for the theme. The IMAX photograph retains its original rights and is not covered by that license. The `preview.jpg` montage combines it with screenshots of the theme.
