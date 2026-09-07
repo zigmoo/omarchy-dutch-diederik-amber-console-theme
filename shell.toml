@@ -1,0 +1,60 @@
+# DIL-2680: existing shell surfaces; unspecified roles use palette defaults.
+[bar]
+background = "#100600"
+background-alpha = 1.0
+text = "#ff6b08"
+active = "#ffa86d"
+
+[menu]
+background = "#100600"
+background-alpha = 1.0
+text = "#ff6b08"
+border = "#dd5800"
+border-alpha = 1.0
+border-width = 2
+scrim = "#100600"
+scrim-alpha = 0.5
+selected-background = "#ff6b08"
+selected-background-alpha = 1.0
+selected-text = "#1e0c00"
+selected-border = "#ffa86d"
+selected-border-alpha = 1.0
+
+[launcher]
+background = "#100600"
+background-alpha = 1.0
+text = "#ff6b08"
+border = "#dd5800"
+border-alpha = 1.0
+border-width = 2
+scrim = "#100600"
+scrim-alpha = 0.5
+selected-background = "#ff6b08"
+selected-background-alpha = 1.0
+selected-text = "#1e0c00"
+selected-border = "#ffa86d"
+selected-border-alpha = 1.0
+
+[popups]
+background = "#100600"
+background-alpha = 1.0
+text = "#ff6b08"
+border = "#dd5800"
+border-alpha = 1.0
+border-width = 2
+
+[notifications]
+background = "#100600"
+background-alpha = 1.0
+text = "#ff6b08"
+border = "#dd5800"
+border-alpha = 1.0
+border-width = 2
+countdown = "#ffa86d"
+
+[tooltip]
+background = "#100600"
+background-alpha = 1.0
+text = "#ff6b08"
+border = "#dd5800"
+border-alpha = 1.0

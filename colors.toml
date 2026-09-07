@@ -1,0 +1,39 @@
+# DIL-2680: AmberConsole neon plasma, one emitter and multiple intensities.
+# Source: DutchDiederik/AmberConsole, e616e1c, src/tokens/colors.css.
+mode = "dark"
+
+accent = "#ffa86d"
+selection = "#ff6b08"
+selection_background = "#ff6b08"
+selection_foreground = "#1e0c00"
+muted = "#dd5800"
+
+background = "#100600"
+dark_background = "#060200"
+darker_background = "#060200"
+lighter_background = "#1b0c02"
+
+foreground = "#ff6b08"
+dark_foreground = "#dd5800"
+light_foreground = "#ffa86d"
+bright_foreground = "#ffa86d"
+
+hyprland_active_border = "#ffa86d"
+hyprland_inactive_border = "#ab4500"
+
+# Names are application roles. None introduces another emitter.
+red = "#ffa86d"
+yellow = "#ffa86d"
+orange = "#ff6b08"
+green = "#ff6b08"
+cyan = "#dd5800"
+blue = "#dd5800"
+magenta = "#ff6b08"
+brown = "#dd5800"
+
+bright_red = "#ffa86d"
+bright_yellow = "#ffa86d"
+bright_green = "#ffa86d"
+bright_cyan = "#ffa86d"
+bright_blue = "#ffa86d"
+bright_magenta = "#ffa86d"
