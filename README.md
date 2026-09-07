@@ -57,5 +57,6 @@ This is a small working palette and surface adaptation. Websites, images and ind
 - **[DutchDiederik / Diederik](https://diederik.blog)** — AmberConsole's original design, hardware research and palette. Please visit [AmberConsole](https://github.com/DutchDiederik/AmberConsole); it is the heart of this theme.
 - **[Jesse Palmer](https://x.com/RealJessePalmer/status/2080690462269259848)** — the IMAX console photograph.
 - **[Bjarne Øverli](https://github.com/bjarneo/omarchy-evergreen-theme)** and the Omarchy theme community — the straightforward repository and installation conventions.
+- [@DHH](https://x.com/dhh) for the amazing [@OmarchyLinux](https://x.com/OmarchyLinux)!!
 
 The upstream **BSD-3-Clause** notice is retained in [LICENSE](LICENSE) for the theme. The IMAX photograph retains its original rights and is not covered by that license. The `preview.jpg` montage combines it with screenshots of the theme.
