@@ -1,8 +1,8 @@
-# Dutch Diederik Amber Console
+# Amber Console
 
 **This Omarchy theme is a tribute to [DutchDiederik](https://github.com/DutchDiederik)'s excellent [AmberConsole](https://github.com/DutchDiederik/AmberConsole) html/css framework.**
 
-![Dutch Diederik Amber Console: six application screenshots around the IMAX console photograph](preview.jpg)
+![Amber Console: six application screenshots around the IMAX console photograph](preview.jpg)
 
 *The wallpaper is [Jesse Palmer's photograph of an IMAX console](https://x.com/RealJessePalmer/status/2080690462269259848), included unchanged.*
 
@@ -11,16 +11,16 @@
 Tested on **Omarchy 4.0.2**.
 
 ```bash
-omarchy theme install https://github.com/zigmoo/omarchy-dutch-diederik-amber-console-theme
+omarchy theme install https://github.com/zigmoo/omarchy-amber-console-theme
 ```
 
 Select it later through **Style → Theme**, or:
 
 ```bash
-omarchy theme set dutch-diederik-amber-console
+omarchy theme set amber-console
 ```
 
-The theme appears as **Dutch Diederik Amber Console** in Omarchy's picker.
+The theme appears as **Amber Console** in Omarchy's picker.
 
 ## One emitter, several intensities
 
