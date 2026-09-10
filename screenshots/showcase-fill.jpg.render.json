@@ -1,0 +1,234 @@
+{
+  "authored_text": {
+    "footer": "OMARCHY THEME",
+    "subtitle": "ONE EMITTER / SEVERAL INTENSITIES",
+    "title": "Amber Console"
+  },
+  "fingerprint": "eadfbc7d37a55d71deec52bc162b85a64b7c727c5d36fd665d6b3d33408add1d",
+  "font": {
+    "path": "/usr/share/fonts/TTF/JetBrainsMonoNerdFont-Regular.ttf",
+    "sha256": "1767e08e6b207eb57c114e833b817e26c6a7625bbcf474e3b4dd0f73c10e5bdc"
+  },
+  "geometry": {
+    "center_rect": [
+      944,
+      438,
+      1312,
+      1098
+    ],
+    "footer_rect": [
+      944,
+      1560,
+      1312,
+      108
+    ],
+    "panels": [
+      {
+        "fit": "contain",
+        "path": "screenshots/fastfetch.png",
+        "position": "top-left",
+        "rect": [
+          24,
+          24,
+          896,
+          568
+        ]
+      },
+      {
+        "fit": "contain",
+        "path": "screenshots/neovim-eternal-history.png",
+        "position": "left",
+        "rect": [
+          24,
+          616,
+          896,
+          568
+        ]
+      },
+      {
+        "fit": "contain",
+        "path": "screenshots/yazi-photo.png",
+        "position": "bottom-left",
+        "rect": [
+          24,
+          1208,
+          896,
+          568
+        ]
+      },
+      {
+        "fit": "contain",
+        "path": "screenshots/btop.png",
+        "position": "top-right",
+        "rect": [
+          2280,
+          24,
+          896,
+          568
+        ]
+      },
+      {
+        "fit": "contain",
+        "path": "screenshots/files.png",
+        "position": "right",
+        "rect": [
+          2280,
+          616,
+          896,
+          568
+        ]
+      },
+      {
+        "fit": "contain",
+        "path": "screenshots/sigye.png",
+        "position": "bottom-right",
+        "rect": [
+          2280,
+          1208,
+          896,
+          568
+        ]
+      }
+    ],
+    "subtitle_rect": [
+      944,
+      313,
+      1312,
+      66
+    ],
+    "title_rect": [
+      944,
+      73,
+      1312,
+      198
+    ]
+  },
+  "inputs": [
+    {
+      "bytes": 321140,
+      "format": "JPEG",
+      "height": 1536,
+      "path": "backgrounds/00-jesse-palmer-imax-console.jpg",
+      "sha256": "0010837f760f93d5e5b73e1ba5eae2b2aae1a664a2dd7349f51e2acf1301e15a",
+      "width": 2048
+    },
+    {
+      "bytes": 121725,
+      "format": "PNG",
+      "height": 1190,
+      "path": "screenshots/fastfetch.png",
+      "sha256": "9c54d7090b55d9bb4fad9ae9fd87bbab8e3a2fa852feb082810eb3fadbc5aa5c",
+      "width": 1920
+    },
+    {
+      "bytes": 555668,
+      "format": "PNG",
+      "height": 1073,
+      "path": "screenshots/neovim-eternal-history.png",
+      "sha256": "674a8cec648e0d309ebe6f2f406ce8b0a6fd133c8ae3d5d3fa4cc3bec0195384",
+      "width": 1560
+    },
+    {
+      "bytes": 901015,
+      "format": "PNG",
+      "height": 1410,
+      "path": "screenshots/yazi-photo.png",
+      "sha256": "c51ac4e942190e694fc4cb756a41e68be2d5551b0027f1dd72f7b1885fcca771",
+      "width": 2182
+    },
+    {
+      "bytes": 1297966,
+      "format": "PNG",
+      "height": 1600,
+      "path": "screenshots/btop.png",
+      "sha256": "85d888a47820606f7f8a641e9e2316bd330fed4cc5a33a603505cf7d146ffeba",
+      "width": 2560
+    },
+    {
+      "bytes": 942207,
+      "format": "PNG",
+      "height": 1600,
+      "path": "screenshots/files.png",
+      "sha256": "4001de781d58a9858fd4103b0fcbfc5524840bf61f7f5c77cfb73bd151d92698",
+      "width": 2560
+    },
+    {
+      "bytes": 1242550,
+      "format": "PNG",
+      "height": 1600,
+      "path": "screenshots/sigye.png",
+      "sha256": "db81305ce3b42300896dfec58213413fed5f60b53011acca848fcfd5cbd1f35e",
+      "width": 2560
+    }
+  ],
+  "output": {
+    "bytes": 1884668,
+    "file": "showcase-fill.jpg",
+    "height": 1800,
+    "sha256": "b8c3d0b6f9a6f52f0161d230d96ea8badc8f70b267dd374561ff90ac1e61aad0",
+    "width": 3200
+  },
+  "recipe": {
+    "background": {
+      "mode": "fill",
+      "path": "backgrounds/00-jesse-palmer-imax-console.jpg"
+    },
+    "canvas": {
+      "color": "#100600",
+      "height": 1800,
+      "width": 3200
+    },
+    "footer": "OMARCHY THEME",
+    "panels": [
+      {
+        "fit": "contain",
+        "path": "screenshots/fastfetch.png",
+        "position": "top-left"
+      },
+      {
+        "fit": "contain",
+        "path": "screenshots/neovim-eternal-history.png",
+        "position": "left"
+      },
+      {
+        "fit": "contain",
+        "path": "screenshots/yazi-photo.png",
+        "position": "bottom-left"
+      },
+      {
+        "fit": "contain",
+        "path": "screenshots/btop.png",
+        "position": "top-right"
+      },
+      {
+        "fit": "contain",
+        "path": "screenshots/files.png",
+        "position": "right"
+      },
+      {
+        "fit": "contain",
+        "path": "screenshots/sigye.png",
+        "position": "bottom-right"
+      }
+    ],
+    "style": {
+      "accent": "#ff6a00",
+      "border": 2,
+      "font": "JetBrainsMono Nerd Font",
+      "gap": 24,
+      "margin": 24,
+      "text": "#ffae70"
+    },
+    "subtitle": "ONE EMITTER / SEVERAL INTENSITIES",
+    "title": "Amber Console",
+    "version": 1
+  },
+  "recipe_sha256": "97cfbe605241c15be40fc1ad7d2af6654fd9a7e6bb78eaa201d1bf58f10293db",
+  "renderer": {
+    "imagemagick": "Version: ImageMagick 7.1.2-30 Q16-HDRI x86_64 7d45ed032:20260823 https://imagemagick.org",
+    "source_sha256": "d3a5c45098d4734da100e4e1f2ef372eef66ae7dbe3fef0c8a9ecb73be7be0cc",
+    "tool": "theme_composite_tool",
+    "version": "1.0.0"
+  },
+  "schema": "theme-composite-render.v1"
+}
